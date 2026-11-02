@@ -82,9 +82,9 @@ The Stage 1B/1C source also includes `stage1b/coordinates.py`, `masks_and_overla
 | `registration_pilot/` | 31 | Five-case correction pilot; no candidate transform accepted into production |
 | `roi_channel_register/` | 32 | Full ROI/channel technical review register with unresolved human decisions |
 | `cell_marker_pilot/` | 33 | Bounded cell-marker quantification pilot |
-| `gating_pilot/run_gating_pilot.py` | 34 | Candidate thresholds and source-image backchecks, not approved biological gates |
-| `weekend_run/` | 35–48 | Preflight, 27-ROI measurements, numbered exploratory clusters, neighbourhoods, gate sensitivity, image backchecks, AF/compartment checks, panel and seed reviews; see each receipt and review index |
-| `weekend_run/targeted_dapi/`, `weekend_run/roi26_local/` | 49–50 | Targeted DAPI and ROI26 shift diagnostics; no accepted correction inferred |
+| `gating_pilot/run_gating_pilot.py` | 34 | Candidate thresholds and source-image backchecks, biological gates |
+| `clusters_pilot/` | 35–48 | Preflight, 27-ROI measurements, numbered exploratory clusters, neighbourhoods, gate sensitivity, image backchecks, AF/compartment checks, panel and seed reviews; see each receipt and review index |
+| `targeted_dapi/`, `weekend_run/roi26_local/` | 49–50 | Targeted DAPI and ROI26 shift diagnostics; no accepted correction inferred |
 | `presentation_cheat_sheet/`, segmentation review/audit folders | 51–55 | Figure navigation and revised segmentation candidate reviews; prior split/merge examples were corrected, not accepted as error rates |
 | ROI-specific reconstruction folders | Unnumbered ROI reports | Native-field reconstructions with separate technical, visual, and scientific status; do not infer all ROIs have finished from files already present |
 
