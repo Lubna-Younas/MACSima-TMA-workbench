@@ -1,6 +1,6 @@
 # MACSima TMA workbench
 
-This repository begins with the **history of commands and QC work already performed** for the MACSima TMA project. The review branch documents the original local and VSC5 entry points, evidence receipts, and the local PDF catalog. It does not introduce a new analysis implementation.
+This repository begins with the **history of commands and QC work already performed** for the MACSima TMA project. The repository documents the original local and VSC5 entry points, evidence receipts, and the local PDF catalog. It does not introduce a new analysis implementation.
 
 ## Read the project history
 
